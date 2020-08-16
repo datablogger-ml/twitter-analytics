@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+json
+time
+nltk
+textblob
+wordcloud
+scikit-learn
+python-twitter
+warnings
+string
+vaderSentiment
