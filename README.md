@@ -11,20 +11,21 @@ Scraping Twitter Data and Visualising the Trends, Topics and Sentiments
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to get familiar with Time Series Forecasting which is very helpful in univariate analysis, and is extensively used in Demand Forecasting. Time series forecasting uses the information in a time series to forecast future values of that series.
+The purpose of this project is to Scrape Twitter Data and Visualise the trend, topics and the sentiment, which is helpful in predicting the perception of the general public on some event/comodity.
 
 ### Methods Used
-* Time Series Forecasting
-* Machine Learning
+* Twitter Scraping
 * Hyper-Parameter Optimization
 * Data Visualization
-* Inferential Statistics
+* Natural Language Processing
 
 ### Technologies
 * Python
-* sklearn, statsmodels
+* Python-Twitter API
+* sklearn
 * Pandas, jupyter
 * matplotlib
+* nltk
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
