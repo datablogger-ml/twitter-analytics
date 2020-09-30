@@ -18,8 +18,7 @@ The purpose of this project is to Scrape Twitter Data and Visualise the trend, t
 
 ### Methods Used
 * Twitter Scraping
-* Hyper-Parameter Optimization
-* Data Visualization
+* Data Visualization - WordCloud, Topic Modelling
 * Natural Language Processing
 
 ### Technologies
