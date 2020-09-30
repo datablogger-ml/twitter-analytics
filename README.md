@@ -46,12 +46,14 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 
 ### Methods
 
-#### 1. TES
+#### 1. Twitter Scraping
 #### 2. Data Visualisation
 
 * <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors. It is useful for quickly perceiving the most prominent terms.
+
 <img src="https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%204.25.54%20PM.png" width="350" height="350">
-* <strong>Topic Modelling</strong> - uses differencing of observations (subtracting an observation from an observation at the previous time step) in order to make the time series stationary (constant mean -> No trend, constant variance).
+
+* <strong>Topic Modelling</strong> - It is a method of Unsupervised Classification of documents, similar to clustering on numerical data, which finds natural groups of items (topics).
 
 
 ## Needs of this project
