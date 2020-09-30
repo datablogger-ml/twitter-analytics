@@ -51,16 +51,6 @@ The purpose of this project is to Scrape Twitter Data and Visualise the trend, t
 * <strong>Topic Modelling</strong> - It is a method of Unsupervised Classification of documents, similar to clustering on numerical data, which finds natural groups of items (topics).
 
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
-
-
 ## Featured Notebooks/Analysis/Deliverables
 * [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt)
 * [Notebook/Markdown/Slide DeckTitle](link)
