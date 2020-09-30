@@ -8,7 +8,12 @@
 ![App name and description](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%2012.24.31%20PM%201.png)
 #### Step 3: Once the app is created, go to the Keys and Tokens sections, copy your API keys and generate Tokens
 ![Access Token and keys](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%2012.24.53%20PM.png)
-#### Step 4: Install the libraries used
+#### Step 4: Download [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt) and install on terminal:
+
+```
+pip install requirements.txt
+```
+
 #### Step 5: Follow along the jupyter notebook :grinning:
 
 #### -- Project Status: Active
@@ -60,6 +65,6 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
+* [Notebook/Markdown/Slide Deck Title](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
