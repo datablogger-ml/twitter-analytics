@@ -14,7 +14,7 @@
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to Scrape Twitter Data and Visualise the trend, topics and the sentiment, which is helpful in predicting the perception of the general public on some event/comodity.
+The purpose of this project is to Scrape Twitter Data and Visualise the trend, topics and the sentiment, which is helpful in predicting the perception of the general public on some event/commodity.
 
 ### Methods Used
 * Twitter Scraping
