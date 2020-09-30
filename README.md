@@ -44,8 +44,7 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 #### 1. TES
 #### 2. Data Visualisation
 
-ARIMA (Autoregressive Independent Moving Average) is a combination of 3 models:
-* <strong>WordCloud</strong> - a regression model that utilizes the dependent relationship between a current observation and observations over a previous period.
+* <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors.
 * <strong>Topic Modelling</strong> - uses differencing of observations (subtracting an observation from an observation at the previous time step) in order to make the time series stationary (constant mean -> No trend, constant variance).
 
 
