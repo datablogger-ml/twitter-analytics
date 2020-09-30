@@ -42,6 +42,7 @@ The purpose of this project is to Scrape Twitter Data and Visualise the trend, t
 ### Methods
 
 #### 1. Twitter Scraping
+Python-twitter API helps us to scrape the tweets. Tweets can be collected through a search keyword or from specific accounts. With the actual text, we can also get information on number of likes and number of tweets.
 #### 2. Data Visualisation
 
 * <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors. It is useful for quickly perceiving the most prominent terms.
