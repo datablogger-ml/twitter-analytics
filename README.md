@@ -36,8 +36,7 @@ The purpose of this project is to Scrape Twitter Data and Visualise the trend, t
 * nltk
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
+The cause and effect relationship between impactful news and martket movements can be directly observed during the release of big news/event.eg Even a single Tweet from Trump on oil can cause massive price variations. News information can give the true nature of the market for any topic.
 
 ### Methods
 
