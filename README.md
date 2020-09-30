@@ -2,14 +2,14 @@
 
 ## Getting Started
 
-##### Step 1: Go to [Twitter Developers](https://developer.twitter.com/en/apps) and sign in with your account
-##### Step 2: Select **Create an app** and specify the app name and description
+#### Step 1: Go to [Twitter Developers](https://developer.twitter.com/en/apps) and sign in with your account
+#### Step 2: Select **Create an app** and specify the app name and description
 ![Create An App](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%2012.23.54%20PM.png)
 ![App name and description](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%2012.24.31%20PM%201.png)
-##### Step 3: Once the app is created, go to the Keys and Tokens sections, copy your API keys and generate Tokens
+#### Step 3: Once the app is created, go to the Keys and Tokens sections, copy your API keys and generate Tokens
 ![Access Token and keys](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%2012.24.53%20PM.png)
-##### Step 4: Install the libraries used
-##### Step 5: Follow along the jupyter notebook :grinning:
+#### Step 4: Install the libraries used
+#### Step 5: Follow along the jupyter notebook :grinning:
 
 #### -- Project Status: Active
 
