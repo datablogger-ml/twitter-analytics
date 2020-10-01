@@ -50,7 +50,7 @@ Python-twitter API helps us to scrape the tweets. Tweets can be collected throug
 
 * <strong>Topic Modelling</strong> - It is a method of Unsupervised Classification of documents, similar to clustering on numerical data, which finds natural groups of items (topics).
 
-* <strong>Sentiment Analysis</strong> - Sentiment analysis is the automated process of analyzing text data and sorting it into sentiments positive, negative, or neutral. Using sentiment analysis tools to analyze opinions in Twitter data can help understand how people are talking about certain topics. With more than 321 million active users, sending a daily average of 500 million Tweets, it has become a crucial process in social media marketing. Monitoring Twitter can allow one to understand their audience, keep on top of what’s being said, and discover new trends in the industry. 
+* <strong>Sentiment Analysis</strong> - Sentiment analysis is the automated process of analyzing text data and sorting it into sentiments : positive, negative, or neutral. Using sentiment analysis tools to analyze opinions in Twitter data can help understand how people are talking about certain topics. With more than 321 million active users, sending a daily average of 500 million Tweets, it has become a crucial process in social media marketing. Monitoring Twitter can allow one to understand their audience, keep on top of what’s being said, and discover new trends in the industry. 
 
 ## Featured Notebooks/Analysis/Deliverables
 * [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt)
