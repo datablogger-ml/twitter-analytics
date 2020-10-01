@@ -23,7 +23,7 @@ The cause and effect relationship between impactful news and martket movements c
 ### Methods
 
 #### 1. Twitter Scraping
-Python-twitter API helps us to scrape the tweets. Tweets can be collected through a search keyword or from specific accounts. With the actual text, we can also get information on number of likes and number of tweets.
+Python-twitter API helps us to scrape the tweets. Tweets can be collected through a search keyword or from specific accounts. With the actual text, we can also get information on number of likes and re-tweet count.
 
 <i>Sample Tweets Format:</i>
 
