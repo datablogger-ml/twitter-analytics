@@ -54,5 +54,5 @@ Python-twitter API helps us to scrape the tweets. Tweets can be collected throug
 
 ## Featured Notebooks/Analysis/Deliverables
 * [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [python-twitter](https://python-twitter.readthedocs.io/en/latest/index.html) documentation
 * [Blog Post](link)
