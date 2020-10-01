@@ -24,6 +24,11 @@ The cause and effect relationship between impactful news and martket movements c
 
 #### 1. Twitter Scraping
 Python-twitter API helps us to scrape the tweets. Tweets can be collected through a search keyword or from specific accounts. With the actual text, we can also get information on number of likes and number of tweets.
+
+<i>Sample Tweets Format:</i>
+
+<img src="https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-10-01%20at%203.49.04%20PM.png" width="800" height="350">
+
 #### 2. Data Visualisation
 
 * <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors. It is useful for quickly perceiving the most prominent terms.
