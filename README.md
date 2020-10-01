@@ -64,4 +64,4 @@ pip install requirements.txt
 ## Featured Notebooks/Analysis/Deliverables
 * [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt)
 * [python-twitter](https://python-twitter.readthedocs.io/en/latest/index.html) Documentation
-* [Blog Post](link)
+* [Twitter Sentiment Analysis with Machine Learning](https://monkeylearn.com/blog/sentiment-analysis-of-twitter/)
