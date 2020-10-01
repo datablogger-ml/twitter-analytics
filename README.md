@@ -26,6 +26,7 @@ The cause and effect relationship between impactful news and martket movements c
 Python-twitter API helps us to scrape the tweets. Tweets can be collected through a search keyword or from specific accounts. With the actual text, we can also get information on number of likes and re-tweet count.
 
 <i>Sample Tweets Format:</i>
+
 <img src="https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-10-01%20at%203.49.04%20PM.png" width="800" height="350">
 
 #### 2. Data Visualisation
@@ -39,6 +40,7 @@ Python-twitter API helps us to scrape the tweets. Tweets can be collected throug
 * <strong>Sentiment Analysis</strong> - Sentiment analysis is the automated process of analyzing text data and sorting it into sentiments : positive, negative, or neutral. Using sentiment analysis tools to analyze opinions in Twitter data can help understand how people are talking about certain topics. With more than 321 million active users, sending a daily average of 500 million Tweets, Monitoring Twitter can allow one to understand their audience, keep on top of what’s being said, and discover new trends in the industry. 
 
 <i>Sample Sentiment Analysis:</i>
+
 <img src="https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-10-01%20at%204.38.57%20PM.png" width="800" height="350">
 
 ## Getting Started
