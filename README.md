@@ -31,7 +31,7 @@ Python-twitter API helps us to scrape the tweets. Tweets can be collected throug
 
 #### 2. Data Visualisation
 
-* <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors. It is useful for quickly perceiving the most prominent terms.
+* <strong>WordCloud</strong> - It is a visual representation of text data. It displays a list of words, the importance of each beeing shown with different font sizes or colors. It is useful for quickly perceiving the most prominent terms in the corpus.
 
 <img src="https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/TwitterAppScreenshots/Screenshot%202020-09-30%20at%204.25.54%20PM.png" width="350" height="350">
 
