@@ -7,3 +7,6 @@ wordcloud
 scikit-learn
 python-twitter
 vaderSentiment
+gensim
+pyLDAvis
+spacy
