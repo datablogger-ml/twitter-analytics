@@ -54,7 +54,7 @@ Python-twitter API helps us to scrape the tweets. Tweets can be collected throug
 #### Step 4: Download [requirements.txt](https://raw.githubusercontent.com/datablogger-ml/twitter-analytics/master/requirements.txt) and install on terminal:
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 #### Step 5: Follow along the jupyter notebook :grinning:
